@@ -227,4 +227,6 @@
         });
     };
 
+    exports.keys = keys;
+
 }(typeof exports === 'undefined' ? this._ = this._ || {}: exports));
